@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API de Biblioteca — Examen Parcial
 
 API REST para gestión de libros y préstamos. Arquitectura por capas (`controllers` / `routes` / `middlewares`), Express 5 + Prisma 7 (adapter `pg`) + PostgreSQL, autenticación JWT con roles.
@@ -107,3 +108,7 @@ Debe mostrar `Puerto 3000`.
 - [ ] `GET /prestamos/mis-prestamos` con `{{tokenUsuario}}` → 200, solo los de ese usuario
 
 Toma capturas de cada uno de estos casos en Thunder Client/Postman para tu entrega.
+=======
+# Aplicada2-Parcial1-OrlandoLora
+Repositorio para el Parcial 1
+>>>>>>> 3a2c80a394dd6d32f0f9b61699a7d9d7436b2823
