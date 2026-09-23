@@ -106,8 +106,6 @@ Debe mostrar `Puerto 3000`.
 - [ ] `GET /prestamos` con `{{tokenUsuario}}` → 403 (no es admin)
 - [ ] `GET /prestamos` con `{{tokenAdmin}}` → 200, todos los préstamos
 - [ ] `GET /prestamos/mis-prestamos` con `{{tokenUsuario}}` → 200, solo los de ese usuario
-
-Toma capturas de cada uno de estos casos en Thunder Client/Postman para tu entrega.
 =======
 # Aplicada2-Parcial1-OrlandoLora
 Repositorio para el Parcial 1
