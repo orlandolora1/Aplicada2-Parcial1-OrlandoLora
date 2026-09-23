@@ -79,7 +79,7 @@ Debe mostrar `Puerto 3000`.
 
 ---
 
-## Checklist de pruebas (en orden, para no perderte)
+## Checklist de pruebas:
 
 ### 1. Registro y login
 - [ ] `POST /auth/registro` con `{"nombre":"Admin","email":"admin@test.com","password":"123456","rol":"admin"}` → 201
